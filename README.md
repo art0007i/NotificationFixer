@@ -1,6 +1,10 @@
 # NotificationFixer
 
-A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that does x.
+A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that fixes the notifications being off center and getting cut off slightly.
+
+![image](https://github.com/art0007i/NotificationFixer/assets/19620451/639e9613-3174-4e81-93e7-14568b033399)
+![image](https://github.com/art0007i/NotificationFixer/assets/19620451/3b2d632b-ede6-43c5-8cea-0b73562db8c2)
+
 
 ## Installation
 1. Install [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader).
